@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+ background-color: cornflowerblue;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+footer p {
+    background-color: rgb(255, 251, 0);
+    border: 2px double rgb(0, 0, 0);
+}
+
+nav {
+    text-align: center;
+    background-color: chocolate;
+    border-radius: 30px;
+}
+
+nav a {
+    margin: 30px;
+    text-decoration: none;
+    color: rgb(22, 185, 185);
+}
+
+.bober {
+    background-color: darkorange;
+}
+
+main{
+    margin: 22px;
+}
+
+a{
+    text-decoration: none ;
+    border: 10px;
+    color: gold;
+}
